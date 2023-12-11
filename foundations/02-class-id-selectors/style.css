@@ -1,0 +1,19 @@
+.oddclass{
+    background-color: rgb(241, 168, 180);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#even1st{
+    font-size: 36px;
+    color: rgb(9, 9, 247);
+}
+
+.oddclass.coolerclass{
+    font-size: 24px;
+}
+
+#even2nd{
+    font-size: 24px;
+    background-color: rgb(133, 243, 133);
+    font-weight: bold;
+}
